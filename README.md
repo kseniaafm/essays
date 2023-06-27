@@ -19,6 +19,10 @@ Firstly, uranium is processed in order to increase the concentration of uranium 
 
 ###Types of reactors {.cards}
 
+There are 2 kinds of nuclear reactor designs currently used in the United States and their main difference is the way they generate steam. One of them is the pressurized water reactors, which are more common. This kind of reactor uses the water as a medium for heat transfer, in which the hot water kept under pressure and then used for the generation of steam, which is then used in the turbine for electricity generator. The other reactor is the boiling water reactor and it is less common. This reactor uses the heat that are coming off the fuel rods in order to heat the water directly. 
+
+
+
 
 #### Pressurized Water Reactor
 
@@ -34,7 +38,7 @@ Water is heated by the nuclear reactor, the boiling temperatures produce steam w
 
 ###The Choronobyl reactor 
 
-.ve-media wc:https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png.aspx
+.ve-media wc: RBMK_en.svg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
