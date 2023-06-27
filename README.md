@@ -14,7 +14,6 @@ The first law of thermodynamics asserts that heat is energy, which is the ultima
 
 ###The process of nuclear energy production
 
-.ve-media wc:Fuel_Rod_%2826072384441%29.jpg left
 
 Firstly, uranium is processed in order to increase the concentration of uranium atoms. Then it is pressed into little uranium pellets which are then packed into long metal rods called fuel rods. [^1] The fuel rods are grouped together to make a fuel assembly. The process of nuclear fission starts generating heat in the fuel assembly. The heat generated boils water which is located either in the same compartment or in a separate location. The location of the water is the determined by the kind of the reactor at use. The boiling water turns to steam which spins an electricity generating turbine. The steam is then condensed and the water gets recycled once more. The process is controlled by control rods which absorb extra neutrons in order to slow down or stop the reaction. Control rods are made from neutron absorbing materials such as boron and silver, which aid in the hindering of neutrons which continue the nuclear fission chain reaction. One can moderate the speed and ability of generating energy by inserting the control rods for a certain length or removing them entirely. 
 
@@ -33,6 +32,11 @@ TEXT FOR PWR[^2]
 
 TEXT for Boiling water[^2]
 
+###The Choronobyl reactor 
+
+###The reactor explosion
+
+###The post Choronobyl changes
 
 
 
