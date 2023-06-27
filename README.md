@@ -38,9 +38,9 @@ Water is heated by the nuclear reactor, the boiling temperatures produce steam w
 
 ###The Choronobyl reactor 
 
-.ve-media wc: RBMK_en.svg
+![](https://www.researchgate.net/profile/Mukhtar-Rana-3/publication/331021511/figure/fig2/AS:725131873763329@1549896319147/RBMK-design-of-the-Chernobyl-nuclear-reactor.jpg) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The previous 2 reactors were moderated and cooled by water, which means that they slow down the neutrons used in nuclear fission. The type of reactor that was used in Choronobyl is a RBMK, high-power channel reactor. This kind of reactor is cooled by water but moderated by graphite control rods. This means that a core of solid graphite is used for slowing down neutrons in the reactor core. This reactor was created with several factors taken into account, mostly to save on costs. The first factor was that the fabrication of RBMK parts can be done at existing manufacturing plants, which would save money by not having to build new factories for parts. The energy output was also very important since most of the Soviet Union relied on nuclear energy for cheaper electricty, so the RBMK reactor had no upper power limits. The RBMK was considered to have a state of the art safety protocol, with more than 1000 primary circuits which would increase the safety of the reactor system. Lastly, the fuel itself was highly efficient as it was able to use slightly less enriched uranium than in other common reactos which saved money. 
 
 
 ###The reactor explosion
