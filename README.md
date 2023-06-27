@@ -5,7 +5,7 @@
 
 ###How nuclear energy is generated
 
-.ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right
+.ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right 
 
 The first law of thermodynamics asserts that heat is energy, which is the ultimate goal of nuclear energy. This heat is generated in the process of nuclear fission. In case of nuclear reactors they simply house the process of nuclear fission, which is the process of splitting atoms into smaller atoms which then generate heat and radiation. It occurs when a nuetron hits a larger atom which is then split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most common nuclear reactos, the fuel of choice is uranium, this acts as the large atom in nuclear fission. Uranium is the fuel of choice because it is because its atoms easily split apart, and its easy to initiate and control and its abundant on Earth. 
 
@@ -24,20 +24,27 @@ Firstly, uranium is processed in order to increase the concentration of uranium 
 
 ![](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Pressurized_Water_Reactor%201200%20x%20900-01_0.png?itok=0i6xJIWK)
 
-TEXT FOR PWR[^2]
+Water is heated by the nuclear reactor and kept under high pressures, afterwards it is transformed into steam by a steam generator which is used in the electric turbine[^2]
 
 #### Boiling Water Reactor
 
 ![](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Boiling_Water_Reactor%201200%20x%20900-01_1.png?itok=3YaGV6RX)
 
-TEXT for Boiling water[^2]
+Water is heated by the nuclear reactor, the boiling temperatures produce steam which would then be used for electricity generation [^2]
 
 ###The Choronobyl reactor 
 
+.ve-media wc:https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png.aspx
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
 ###The reactor explosion
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ###The post Choronobyl changes
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 [^1]: Uranium as fuel information obtained from (https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx)
