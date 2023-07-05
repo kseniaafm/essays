@@ -44,7 +44,12 @@ The previous 2 reactors were moderated and cooled by water, which means that the
 
 
 ###The reactor explosion
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+The explosion started when the reactor came in contact with normal water without the protection of the control rods, which elementally separated the water which blew the lid off the reactor. This hot steam explosion set of a chain of events which led to the graphite of the control rods to melt. The melted graphite when mixed with other elements such as nuclear fuel and fission products, created corium which then turned to the now called “elephant foot”. 
+
+
+Some say that the Choronobyl reactor was doomed to fail. That is due to the numerous design flaws in its creation. The first issue was that the reactor had a positive void coefficient. This means that when there is an increase of steam in the core or  a "void" of neutron-absorbing water, the reactivity of the reactor will increase. Compared to the  boiling water or pressurized water style reactors, they would have a negative void coefficient which will decrease in reactivity with an increase of steam in the core. This provides an extra level of safety and support for the security of the reactor. The second issue is that there was a way for the operators to manually override the emergency protocol. This creates an issue of human error, whereas if there was no way to override it and the safety protocol was in place it would be more safe without human interference. Lastly, the control rods took a long time to come into position, 18 seconds. While 18 seconds does not seem like much, this timing has now been changed to 12 seconds, and the extra 6 seconds could make a difference between life and death. 
+For more information on the design flaw topic: [Cutting Corners]( https://ds-pages.swarthmore.edu/reactor-room/projects/cutting-corners/ )
 
 
 ###The post Choronobyl changes
