@@ -1,4 +1,4 @@
-.ve-header  "The Science Behind Nuclear Power" wc:NSC-Oct-2017.jpg
+.ve-header  "The Science Behind Nuclear Power" wc:NSC-Oct-2017.jpg sticky
 
 
 
